@@ -1,0 +1,32 @@
+.container
+{
+	margin-top: 2em;
+}
+.container .jumbotron
+{
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.jumbotron p.options
+{
+	line-height: 2em;
+}
+div.alert h3
+{
+	margin-top: 10px;
+}
+div.progress
+{
+	height: 60px;
+}
+div.progress-bar
+{
+	font-size: 25px;
+	line-height: 60px;
+}
+span.label
+{
+	cursor: default;
+}
